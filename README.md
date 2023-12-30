@@ -17,10 +17,12 @@ A gyűjteményben szereplő cégek külföldi és / vagy magyar tulajdonúak. (A
 ## Lista
 
 - [aiMotive](https://aimotive.com/)
+- [Deloitte](https://www2.deloitte.com/hu/hu.html)
 - [DLabs](https://www.dlabs.hu)
 - [itemis AG](https://www.itemis.com/en/)
 - [keyrock](https://keyrock.eu/)
 - [Mastercard](https://www.mastercard.hu/hu-hu.html)
+- [ZGEN](https://zgen.hu/)
 
 ## Kutatási részletek
 
