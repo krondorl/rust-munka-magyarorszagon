@@ -31,6 +31,7 @@ A keresés részleteit a [Kutatási Napló jegyzetben](kutatasi-naplo.md) talál
 ## Kereséshez használt weboldalak
 
 - [Indeed Álláskeresés](https://hu.indeed.com/)
+- [Dreamjobs](https://dreamjobs.hu/hu)
 - [Google](https://www.google.hu/)
 
 ## A Rust logó használatáról
