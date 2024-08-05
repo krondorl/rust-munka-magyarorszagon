@@ -16,6 +16,7 @@ A gyűjteményben szereplő cégek külföldi és / vagy magyar tulajdonúak. (A
 
 ## Lista
 
+- [NN](https://www.nn.hu/)
 - [aiMotive](https://aimotive.com/)
 - [Deloitte](https://www2.deloitte.com/hu/hu.html)
 - [DLabs](https://www.dlabs.hu)
