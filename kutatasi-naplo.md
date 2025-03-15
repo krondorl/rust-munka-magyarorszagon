@@ -1,8 +1,8 @@
 # Kutatási napló
 
-Rust Software Engineer
-https://hu.indeed.com/viewjob?jk=caa3177ad33dff95&from=shareddesktop_copy
-Legutóbbi hozzáférés: 2025-03-15 16:18
+Rust Software Engineer\
+https://hu.indeed.com/viewjob?jk=caa3177ad33dff95&from=shareddesktop_copy \
+Legutóbbi hozzáférés: 2025-03-15 16:18 \
 Fathom.io, Dhahran, Saudi Arabia és európai irodák
 
 Rust Developer
