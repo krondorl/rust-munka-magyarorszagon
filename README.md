@@ -2,7 +2,7 @@
 
 # Rust munka és karrier Magyarországon
 
-Ez egy lista, ahol a nyilvánosan megtalálható, Magyarországon működő cégek Rusttal kapcsolatos munkalehetőségeit lehet megtalálni.
+Ez egy lista, ahol a nyilvánosan megtalálható, magyarországi kapcsolattal működő cégek Rusttal kapcsolatos munkalehetőségeit lehet megtalálni.
 
 ## Tudnivalók
 
@@ -16,6 +16,7 @@ A gyűjteményben szereplő cégek külföldi és / vagy magyar tulajdonúak. (A
 
 ## Lista
 
+- [Fathom.io](https://fathom.io/)
 - [NN](https://www.nn.hu/)
 - [aiMotive](https://aimotive.com/)
 - [Deloitte](https://www2.deloitte.com/hu/hu.html)
@@ -34,6 +35,7 @@ A keresés részleteit a [Kutatási Napló jegyzetben](kutatasi-naplo.md) talál
 - [Indeed Álláskeresés](https://hu.indeed.com/)
 - [Dreamjobs](https://dreamjobs.hu/hu)
 - [Google](https://www.google.hu/)
+- [Linkedin Jobs](https://www.linkedin.com/jobs/)
 
 ## A Rust logó használatáról
 
