@@ -6,12 +6,12 @@ Legutóbbi hozzáférés: 2025-03-15 16:18 \
 Fathom.io, Dhahran, Saudi Arabia és európai irodák
 
 Rust Developer\
-https://hu.indeed.com/viewjob?jk=2081e3203bf28348\
+https://hu.indeed.com/viewjob?jk=2081e3203bf28348 \
 Legutóbbi hozzáférés: 2024-08-05 21:48\
 NN Group, Budapest
 
 Red Team Operator (Senior Penetration Tester)\
-https://hu.indeed.com/jobs?q=rust&l=Budapest&from=searchOnHP&vjk=912240b3d7408b87\
+https://hu.indeed.com/jobs?q=rust&l=Budapest&from=searchOnHP&vjk=912240b3d7408b87 \
 Deloitte, Budapest\
 Legutóbbi hozzáférés: 2023-12-30 12:59
 
