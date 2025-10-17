@@ -16,6 +16,7 @@ A gyűjteményben szereplő cégek külföldi és / vagy magyar tulajdonúak. (A
 
 ## Lista
 
+- [Docktape Technologies](https://docktape.com/)
 - [Fathom.io](https://fathom.io/)
 - [NN](https://www.nn.hu/)
 - [aiMotive](https://aimotive.com/)
@@ -24,7 +25,7 @@ A gyűjteményben szereplő cégek külföldi és / vagy magyar tulajdonúak. (A
 - [itemis AG](https://www.itemis.com/en/)
 - [keyrock](https://keyrock.eu/)
 - [Mastercard](https://www.mastercard.hu/hu-hu.html)
-- [ZGEN](https://zgen.hu/)
+- [Guild](https://careers.guild.xyz/)
 
 ## Kutatási részletek
 

@@ -1,5 +1,10 @@
 # Kutatási napló
 
+Medior/Senior Rust Engineer\
+https://www.linkedin.com/jobs/view/4309546417/ \
+Legutóbbi hozzáférés: 2025-03-15 16:18 \
+Docktape Technologies, Budapest
+
 Rust Software Engineer\
 https://hu.indeed.com/viewjob?jk=caa3177ad33dff95&from=shareddesktop_copy \
 Legutóbbi hozzáférés: 2025-03-15 16:18 \
